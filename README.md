@@ -35,8 +35,8 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 ## PROGRAM
 ```
-Developed by: ISHWARYA V
-Register number: 212221240016
+Developed by: VISHAL GOWTHAMAN K R
+Register number: 212221230123
 ```
 
 ### Import required libraries
