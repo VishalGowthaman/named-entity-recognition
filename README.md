@@ -34,11 +34,6 @@ We build a build a model using Input, Embedding, Bidirectional LSTM, Spatial Dro
 We compile the model and fit the train sets and validation sets,We plot the necessary graphs for analysis,A custom prediction is done to test the model manually.
 
 ## PROGRAM
-```
-Developed by: VISHAL GOWTHAMAN K R
-Register number: 212221230123
-```
-
 ### Import required libraries
 ```
 import matplotlib.pyplot as plt
